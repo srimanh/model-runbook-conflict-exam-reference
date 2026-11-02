@@ -1,2 +1,4 @@
 Support runbook
-Escalation: contact team inbox.
+Escalation: contact support lead.
+Before escalation: record the error message.
+After escalation: record the ticket number.
